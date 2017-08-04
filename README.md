@@ -1,3 +1,3 @@
-# Moved to this repo: https://github.com/neko2016/piano2
+This repo is redirected to: https://github.com/neko2016/JSxPiano
 
-Try out the demo here: https://neko2016.github.io/piano2/
+Try out the demo here: https://neko2016.github.io/JSxPiano/
